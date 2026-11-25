@@ -1,3 +1,3 @@
 # Fruit mini game
  
-https://danon77.github.io/Fruit-mini-game/
+https://velevoff.github.io/Fruit-mini-game/
